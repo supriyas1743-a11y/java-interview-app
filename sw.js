@@ -1,4 +1,4 @@
-const CACHE_NAME = 'java-prep-v1';
+const CACHE_NAME = 'java-prep-v2';
 const ASSETS = [
   './',
   './index.html',
